@@ -1,0 +1,2 @@
+安装后运行，发现所有图片都检测不到人脸，需要将程序完全退出后再次运行就可以了。
+F:\Face\mtcnn-ncnn\RetinaFace_NCNN_AS_OK_20191224
